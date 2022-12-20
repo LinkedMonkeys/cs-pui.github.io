@@ -53,6 +53,7 @@
 | [Houghton University](#houghton) | Houghton, NY | 01/01/2023 |
 | [Dickinson College](#dickinson) | Carlisle, PA | 01/09/2023, open until filled |
 | [Muhlenberg College](#muhlenberg) | Allentown, PA | 01/15/2023 |
+| [Ouachita Baptist University)(#ouachita) | Arkadelphia, AR | 01/27/2023 (open until filled) | 
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |

@@ -512,7 +512,18 @@ _Excerpt_ Are you passionate about equity and access? Do you want to join us in 
 [_back to all deadlines_](#deadlines)
 
 ------------
+### Ouachita Baptist University
+{: #ouachita}
 
+[Excerpt] The Department of Math and Computer Science in the J. D. Patterson School of Natural Sciences at Ouachita Baptist University invites applications for a tenure-track position in Cybersecurity to begin August 2023. The successful candidate will exhibit excellent teaching in the context of a liberal arts education; a collegial commitment to professional, university, departmental, and community service; and a Christian commitment consistent with the University’s vision, mission, and values. Primary responsibilities will include teaching a wide range of cybersecurity and computer science courses as part of a new cybersecurity program. Rank and salary are dependent on qualifications. All qualified candidates will be considered, but preference will be given to those who have a PhD in Cybersecurity or a related computer-science field.
+
+- Priority review of completed applications will begin on **January 27, 2023**, but review will continue until the position is filled.
+- Arkadelphia, AR. USA
+
+[Full Job Posting](https://obu.edu/about/hr/faculty-vacancies.php){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 ### University of the Pacific
 {: #pacific}
 
